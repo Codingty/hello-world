@@ -1,0 +1,29 @@
+if (10 == 10) // == menas equal = assigns to a variable
+{
+    console.log("You got a true!"); // output
+} 
+else 
+{
+    console.log("You got a false!"); // output
+}
+//-----Pop ups
+if (12 / 4 === "Ari".length) {
+    confirm("Will this run the first block?");
+} 
+else {
+    prompt("Or the second block?");
+}
+//--- Math. 100/10 evaluates to 10
+// "Jane".length + 5 evaluates to 9
+// 5*(3+1) evaluates to 20
+
+console.log(14 % 3);
+console.log(99 % 8);
+console.log(11 % 3);
+// Math output
+
+if(100 % 10 === 0  ) {
+    console.log("The first number is even");
+} else {
+    console.log("The first number is odd");
+// modulo remainder if else statement.
